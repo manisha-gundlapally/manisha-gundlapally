@@ -1,76 +1,33 @@
 # 👋 Hi, I'm Manisha Gundlapally!
 
-🎓 B.Tech Electronics & Communication Engineering (ECE) @ Anurag University
-
-💻 Passionate about VLSI | Embedded Systems | Full Stack Development
-
-🌱 Currently Learning
-- RTL Design
-- Digital VLSI Design
-- Verilog HDL
-- DSA
-- Web Development
+🎓 B.Tech ECE @ Anurag University  
+💻 Passionate about VLSI Design, AI & Full-Stack Development  
+🚀 Building RTL Design, AI-powered applications, and scalable software solutions  
+🎯 LeetCode: 300+ Problems Solved 
 
 ---
 
-# 🚀 Projects
+##  Projects
 
-### 🔹 RTL Design & Synthesis Workshop
-Hands-on implementation of RTL design, synthesis, optimization, and gate-level simulation using Yosys and Sky130 Standard Cell Library.
+###  Industrial Knowledge Intelligence Platform
+AI-powered platform that enables intelligent document search and knowledge retrieval using LLMs, LangChain, FAISS, and Streamlit.
 
-### 🔹 AI Based Dysarthria Detection
-Deep Learning framework for speech-based dysarthria detection and severity classification.
+### Placement Management Portal
+Full-stack web application for managing student placements, recruiter interactions, and placement activities with role-based access.
 
-### 🔹 Amazon Clone
-Responsive frontend built using HTML & CSS.
+###  Explainable Dysarthria Detection
+Deep Learning framework for automated dysarthria detection and severity assessment from speech signals using Explainable AI.
 
-### 🔹 Smart Water Purification System
-IoT-based water quality monitoring system.
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-- C++
-- Python
-- Verilog
-- HTML
-- CSS
-- JavaScript
-- SQL
-
-### Tools
-- Yosys
-- GTKWave
-- VS Code
-- Git
-- GitHub
-- MATLAB
+### RTL Design & Synthesis Workshop
+Hands-on implementation of RTL design, synthesis, optimization, and Gate-Level Simulation using Verilog, Yosys, and Sky130 Standard Cell Library.
 
 ---
 
-# 📚 Currently Working On
+## 📫 Connect With Me
 
-- VSD RTL Design Workshop
-- DSA Preparation
-- Digital Design
-- Placement Preparation
+💼 LinkedIn  
+🔗 https://www.linkedin.com/in/manisha-gundlapally-713595314/
 
----
-
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manisha-gundlapally&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manisha-gundlapally&layout=compact&theme=github_dark)
-
----
-
-# 🌐 Connect With Me
-
-💼 LinkedIn:
-https://www.linkedin.com/in/manisha-gundlapally-713595314/
-
-📧 Email:
-your-email@gmail.com
+💻 LeetCode
+https://leetcode.com/u/manisha_gundlapally/
+📧 manishagundlapally4@gmail.com
